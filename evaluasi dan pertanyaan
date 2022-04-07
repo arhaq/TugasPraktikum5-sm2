@@ -1,0 +1,12 @@
+
+Answer: 
+
+1. Encapsulation pada OOP adalah konsep tentang pengikatan data atau metode berbeda yang disatukan atau “dikapsulkan” menjadi satu unit data. 
+2. Inheritance (Pewarisan) merupakan salah satu dari tiga konsep dasar OOP. Konsep inheritance ini mengadopsi dunia riil dimana suatu entitas/obyek dapat mempunyai entitas/obyek turunan. Dengan konsep inheritance, sebuah class dapat mempunyai class turunan.
+3. 
+    - extends = menggabungkan Class PHP dengan Class PHP yang baru
+    - __construct = method atau function yang otomatis akan dijalankan saat class dibuat menjadi object 
+    - parent::__construct = menjalankan construct pada parent nya
+    - parent::cetak() = memanggil fungsi cetak di kelas induknya dengan pernyataan parent
+    - $this->nama =  sebuah variabel yang merujuk pada properti $nama
+    - • $this->hello()  = mengakses method hello()
